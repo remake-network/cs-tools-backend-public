@@ -1,5 +1,5 @@
 https://github.com/remake-network/cs-tools-frontend-public
-
+Coded by Mikaelrn
 ### Ticket Status Update API
 <details>
 This API endpoint (/api/handleCSTicketStatus) allows for updating the status of a ticket in the system.
